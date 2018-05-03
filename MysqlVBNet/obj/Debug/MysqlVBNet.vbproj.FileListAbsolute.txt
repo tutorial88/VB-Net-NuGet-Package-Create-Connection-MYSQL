@@ -1,0 +1,15 @@
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\bin\Debug\MysqlVBNet.exe.config
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\bin\Debug\MysqlVBNet.exe
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\bin\Debug\MysqlVBNet.pdb
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\bin\Debug\MysqlVBNet.xml
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\bin\Debug\Google.Protobuf.dll
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\bin\Debug\MySql.Data.dll
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\bin\Debug\Google.Protobuf.xml
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\bin\Debug\MySql.Data.xml
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\obj\Debug\MysqlVBNet.vbprojResolveAssemblyReference.cache
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\obj\Debug\MysqlVBNet.Form1.resources
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\obj\Debug\MysqlVBNet.Resources.resources
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\obj\Debug\MysqlVBNet.vbproj.GenerateResource.Cache
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\obj\Debug\MysqlVBNet.exe
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\obj\Debug\MysqlVBNet.xml
+c:\users\mastarman\documents\visual studio 2017\Youtube\MysqlVBNet\MysqlVBNet\obj\Debug\MysqlVBNet.pdb
